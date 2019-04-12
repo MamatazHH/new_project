@@ -1,0 +1,6 @@
+{
+    "name": "mamataz/re-captcha",
+    "require": {
+        "google/recaptcha": "^1.2"
+    }
+}
